@@ -32,3 +32,28 @@ a.a-button_secondary {
 a, a:link {
   color: inherit;
 }
+
+div#Zmainbody {
+	clear :both;
+	color:black;
+	background-color: transparent;
+  margin-top: 0;
+}
+
+div.faq-item {
+  padding: 10px 15px;
+}
+
+div.faq-item::after {
+  min-width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form_container table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  height: 100%;
+}
