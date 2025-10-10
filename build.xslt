@@ -80,20 +80,15 @@
             </ul>
           </div>
         </header>
-        <header class="entry-header content-header hero_image">
+        <header class="entry-header content-header text_only">
           <div class="content-header_inner-wrapper">
             <div class="content-header_container">
               <div class="content-header_excerpt">
-                <span class="prefix">University of Toronto</span>
                 <h1 class="title a-heading--black">University Registrar's Office</h1>
                 <div class="summary">
-                  <p>The University Registrar&#x2019;s Office (URO) supports and advances the University of Toronto academic and strategic goals by providing leadership and advice across all three campuses on areas such as student registration, student academic records, financial aid, awards, fee assessment, academic discipline and access to information.</p>
+                  <p>The University Registrar’s Office (URO) supports and advances the University of Toronto academic and strategic goals by providing leadership and advice across all three campuses on areas such as student registration, student academic records, financial aid, awards, fee assessment, academic discipline and access to information.</p>
                 </div>
               </div>
-            </div>
-            <div class="content-header_image mobile-hide">
-              <img decoding="async" src="https://www.registrar.utoronto.ca//wp-content/uploads/2025/02/bg_01.jpg" alt="hero">
-              </img>
             </div>
           </div>
         </header>
