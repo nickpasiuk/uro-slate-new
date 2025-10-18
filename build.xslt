@@ -7,7 +7,7 @@
         <!-- ?v= Increment timestamp (note, this is yyyyMMDDHHmm to update build-fonts.css and build.css files -->
         <link href="/shared/build-fonts.css?v=20220214150088952000" rel="stylesheet" />
         <link href="/shared/build.css?v=2022021415008895119" rel="stylesheet" />
-        <link href="/shared/build-new.css?v=20220214150088951123" rel="stylesheet" />
+        <link href="/shared/build-new.css?v=20220214150088951124" rel="stylesheet" />
         <link href="/shared/build-mobile-global.css" rel="stylesheet" />
         <link href="/shared/build-headers.css?v=20220217" rel="stylesheet" />
         <link href="/shared/menu.css?v=1" rel="stylesheet" />
@@ -80,18 +80,6 @@
             </ul>
           </div>
         </header>
-        <header class="entry-header content-header text_only">
-          <div class="content-header_inner-wrapper">
-            <div class="content-header_container">
-              <div class="content-header_excerpt">
-                <h1 class="title a-heading--black">University Registrar's Office</h1>
-                <div class="summary">
-                  <p>The University Registrar’s Office (URO) supports and advances the University of Toronto academic and strategic goals by providing leadership and advice across all three campuses on areas such as student registration, student academic records, financial aid, awards, fee assessment, academic discipline and access to information.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </header>
         <div id="Zmainbody" class="bodywidth">
           <div id="page">
             <!-- Body content section -->
@@ -101,17 +89,6 @@
                   <div id="global" />
                   <div id="content">
                     <xsl:apply-templates select="xhtml:html/xhtml:body/node()" />
-                  </div>
-                  <div class="section__item section__cta-wrap wp-block-acf-cta" id="block-7-block_876cc0e27fbfe3d8864500fe8c6fd1db">
-                    <div class="cta-block" id="block-7-block_876cc0e27fbfe3d8864500fe8c6fd1db" style="background-image: url(https://www.registrar.utoronto.ca/wp-content/uploads/2024/12/CTA.png)">
-                      <div class="cta-block__inner cta-block__inner_half">
-                        <h2 class="cta-block__title a-heading--bold">Need help or have additional questions?</h2>
-                        <div class="cta-block__buttons-wrap">
-                          <a href="/contact-us/" aria-label="" class="a-button_primary a-button_chevron_right">Contact Us</a>
-                          <a href="https://uthrprod.service-now.com/enrolment" target="_blank" aria-label="" class="a-button_secondary a-button_external-link">Service Portal</a>
-                        </div>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
